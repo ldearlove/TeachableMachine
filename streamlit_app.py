@@ -36,4 +36,4 @@ if img_file_buffer is not None:
         st.write("I'm not confident that I know what this is! ")
 
     # End on balloons
-    st.balloons()
+st.balloons()
